@@ -10,8 +10,8 @@ xList 是一款 macOS 多存储文件管理工具。你可以在一个应用里�
 ## 安装与启动
 请从 GitHub Release 下载对应架构的 `dmg` 安装包：
 
-- Apple 芯片（M1/M2/M3...）：下载 `arm64` 版本
-- Intel 芯片：下载 `x64`（或 `amd64`）版本
+- Apple 芯片：下载 `arm64` 版本
+- Intel 芯片：下载 `x86_64`（或 `amd64`）版本
 
 安装步骤：
 
